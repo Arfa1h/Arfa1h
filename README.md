@@ -127,7 +127,7 @@ AI-powered web scraping application built to extract pricing, features, and avai
 
 ## 📈 Contribution Graph
 <div align="center">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-activity-graph.vercel.app/graph?username=marutigore&theme=github-dark&hide_border=true&radius=16"><img src="https://github-readme-activity-graph.vercel.app/graph?username=marutigore&theme=github-dark&hide_border=true&radius=16" style="max-width: 100%;"></a>
+<img src="./profile/streak.svg" alt="GitHub Streak Stats" />
 </div>
 
 ---
