@@ -120,7 +120,7 @@ AI-powered web scraping application built to extract pricing, features, and avai
 
 ## 🔥 Contribution Streak
 <div align="center">
-<a href="https://git.io/streak-stats" rel="nofollow"><img src="https://streak-stats.demolab.com?user=marutigore&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak" style="max-width: 100%;"></a>
+<img src="./profile/streak.svg" alt="GitHub Streak Stats" />
 </div>
 
 ---
