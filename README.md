@@ -104,15 +104,15 @@ Mission:
 
 ### 🌟 Synthara
 AI-powered data preparation platform that converts natural language prompts into structured datasets using web scraping and LLMs.
-- **Tech:** Python • Gemini API • DeepSeek AI • Next.js • Supabase
+**Tech:** Python • Gemini API • DeepSeek AI • Next.js • Supabase
 
 ### 🤖 AI Data Analyst Chatbot
 Streamlit web application utilizing **Retrieval-Augmented Generation (RAG)** for semantic document Q&A and automated data science analytics.
-- **Tech:** Streamlit • LangChain • NumPy Vector Index • Python • Scikit-Learn
+**Tech:** Streamlit • LangChain • NumPy Vector Index • Python • Scikit-Learn
 
 ### 📊 Intelligent Product Comparison Dashboard
 AI-powered web scraping application built to extract pricing, features, and availability data from dynamic e-commerce platforms in real time.
-- **Tech:** Python • Selenium • LangChain • Ollama (Llama 3.1) • Streamlit
+**Tech:** Python • Selenium • LangChain • Ollama (Llama 3.1) • Streamlit
 
 ---
 
