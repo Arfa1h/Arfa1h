@@ -1,5 +1,5 @@
 <div align="center">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:4285F4&text=Maruti%20Gore&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"><img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:4285F4&text=Maruti%20Gore&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:4285F4&text=Mohammed%20Arfath&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"><img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:4285F4&text=Mohammed%20Arfath&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" style="max-width: 100%;"></a>
 
 🚀 AI & ML Engineer • Data Analyst Intern • Python Developer
 Building Production-Ready AI Systems • LLM Applications • Intelligent Automation Solutions
@@ -20,7 +20,7 @@ Building Production-Ready AI Systems • LLM Applications • Intelligent Automa
 
 ## 💫 About Me
 ```yaml
-Name: Maruti Gore
+Name: Mohammed Arfath
 
 Role: AI & ML Engineer / Data Analyst
 
@@ -126,14 +126,14 @@ AI-powered web scraping application built to extract pricing, features, and avai
 
 ## 📈 Contribution Graph
 <div align="center">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-activity-graph.vercel.app/graph?username=marutigore&theme=github-dark&hide_border=true&radius=16"><img src="https://github-readme-activity-graph.vercel.app/graph?username=marutigore&theme=github-dark&hide_border=true&radius=16" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-activity-graph.vercel.app/graph?username=Arfa1h&theme=github-dark&hide_border=true&radius=16"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Arfa1h&theme=github-dark&hide_border=true&radius=16" style="max-width: 100%;"></a>
 </div>
 
 ---
 
 ## 🏆 GitHub Summary
 <div align="center">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marutigore&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marutigore&theme=github_dark" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arfa1h&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arfa1h&theme=github_dark" style="max-width: 100%;"></a>
 </div>
 
 ---
@@ -158,9 +158,10 @@ AI-powered web scraping application built to extract pricing, features, and avai
 ---
 
 ## 📫 Connect With Me
-- 💼 **LinkedIn**: [linkedin.com/in/maruti-gore](https://linkedin.com/in/maruti-gore)
-- ✉️ **Email**: [maruti6750@gmail.com](mailto:maruti6750@gmail.com)
-- 🖥️ **GitHub**: [github.com/marutigore](https://github.com/marutigore)
+- 💼 **LinkedIn**: [linkedin.com/in/arfa1h](https://www.linkedin.com/in/arfa1h/)
+- ✉️ **Email**: [mhmmd.arf18@gmail.com](mailto:mhmmd.arf18@gmail.com)
+- 🖥️ **GitHub**: [github.com/Arfa1h](https://github.com/Arfa1h)
+- 💬 **Discord**: `mohammedarfath_`
 
 ---
 💡 *Transforming Ideas Into Intelligent Systems Through AI & Engineering*
