@@ -103,17 +103,24 @@ Mission:
 
 ## 🚀 Featured Projects
 
-### 🌟 Synthara
-AI-powered data preparation platform that converts natural language prompts into structured datasets using web scraping and LLMs.
-**Tech:** Python • Gemini API • DeepSeek AI • Next.js • Supabase
+### 🚀 SpaceX Data-Pipeline • [GitHub Repository](https://github.com/Arfa1h/Quantifying-Reusability-A-Machine-Learning-Geospatial-Risk-Assessment-of-SpaceX-Launches)
+**Tech Stack:** Python • SQL • Scikit-learn • Plotly Dash • Folium • Pandas • Excel • Power BI
+- Created an end-to-end ML pipeline to predict Falcon 9 first-stage landing outcomes, supporting launch cost estimation tied to **~$100M in booster reuse savings**.
+- Retrieved launch data from the SpaceX REST API and web scraping, then cleaned and formatted raw datasets in Excel before building a Power BI dashboard for early exploratory analysis.
+- Applied One-Hot Encoding and `StandardScaler` in Python to prepare categorical and numerical features for modeling, following geospatial EDA in Folium confirming launch sites are positioned ~65 km from cities for safety while remaining close to coastlines and railways for logistics.
+- Utilized Logistic Regression, SVM, and KNN classification models that achieved **83.33% test accuracy**, with confusion matrix analysis identifying false positives as the highest-risk error for recovery decisions.
 
-### 🤖 AI Data Analyst Chatbot
-Streamlit web application utilizing **Retrieval-Augmented Generation (RAG)** for semantic document Q&A and automated data science analytics.
-**Tech:** Streamlit • LangChain • NumPy Vector Index • Python • Scikit-Learn
+### 🏙️ Metro Cities Air Quality Analysis • [GitHub Repository](https://github.com/Arfa1h/Metro_Cities_Air_Quality_Analysis)
+**Tech Stack:** Python • Streamlit • Dash • Plotly • Pandas • NumPy • SQLite
+- Built an interactive analytics dashboard to visualize air quality trends across 7 Indian metro cities, processing **8,470+ daily records** spanning Aug 2022–Nov 2025.
+- Retrieved and structured pollution and meteorological data into SQLite for optimized query performance across dynamic city, year, and season filters.
+- Implemented Plotly Express and Graph Objects for interactive trend, comparison, and correlation visualizations (boxplots, heatmaps, scatter plots).
+- Utilized dual-framework deployment (Streamlit + Dash) that enabled real-time KPI tracking, surfacing a **41.95% PM2.5 surge** during festival periods and identifying Delhi as the most severe pollution hotspot (70.80 µg/m³ avg PM2.5 vs. 38.53 µg/m³ overall average).
 
-### 📊 Intelligent Product Comparison Dashboard
-AI-powered web scraping application built to extract pricing, features, and availability data from dynamic e-commerce platforms in real time.
-**Tech:** Python • Selenium • LangChain • Ollama (Llama 3.1) • Streamlit
+### 📊 Applied Data Analytics Projects
+**Tech Stack:** SQL • MS Excel • Power BI • ETL
+- Visualized omnichannel retail sales performance by programming a corporate Power BI dashboard backed by a MySQL database, identifying top high-margin products that drive 80% of total revenue.
+- Processed advanced data cleansing on UK traffic records to fix severity errors, generating a geospatial risk assessment map that uncovered 5 counter-intuitive infrastructure insights.
 
 ---
 
